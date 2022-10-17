@@ -30,6 +30,7 @@ function getMatrixElementsSum(matrix) {
         }
       }
     }
+    
   }
   return count
 }
